@@ -13,7 +13,7 @@ https://www.linkedin.com/in/henrique-ramos-b8225989/
 <img height ="100" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 <img height ="100" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img height ="100" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img height ="100" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-original.svg" />
+<img height ="100" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
           
 </div>
           
