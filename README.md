@@ -1,7 +1,5 @@
 ### Oi! Me chamo Henrique Ramos
 
-<!--
-**Henrxque/Henrxque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 #Bem vindos ao meu perfil!
 https://www.linkedin.com/in/henrique-ramos-b8225989/
