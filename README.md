@@ -9,8 +9,8 @@ https://www.linkedin.com/in/henrique-ramos-b8225989/
 - 🌱 Atualmente estudando Data Science e Python (Pandas/Numpy) pela Alura
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" />
+<img height ="100" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" />
+<img height ="100" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" />
           
           
 
