@@ -8,7 +8,8 @@ https://www.linkedin.com/in/henrique-ramos-b8225989/
 - 💻 Formado em Sistemas de Informação pela USJT
 - 🌱 Atualmente estudando Data Science e Python (Pandas/Numpy) pela Alura
 
-<i class="devicon-python-plain-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
           
 
 #Projetos:
