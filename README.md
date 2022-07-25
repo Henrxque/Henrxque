@@ -9,7 +9,7 @@ https://www.linkedin.com/in/henrique-ramos-b8225989/
 - 🌱 Atualmente estudando Data Science e Python (Pandas/Numpy) pela Alura
 
 
-<img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="center" height="120" width="160" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
           
 
