@@ -9,10 +9,10 @@ https://www.linkedin.com/in/henrique-ramos-b8225989/
 - 🌱 Atualmente estudando Data Science e Python (Pandas/Numpy) pela Alura
 
 
-<img align="center" height="100" width="140" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="center" height="100" width="140" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-<img align="center" height="100" width="140" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-<img align="center" height="100" width="140" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" />
+<img align="center" height="80" width="100" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="center" height="80" width="100" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+<img align="center" height="80" width="100" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<img align="center" height="80" width="100" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" />
           
           
 
