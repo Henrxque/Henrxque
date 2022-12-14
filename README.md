@@ -9,9 +9,10 @@ Bem vindos ao meu perfil!
 
 <br>
 
-- 🪙 Sou Analista de Projetos e Processos Jr. no Banco Itaú
+- 🪙 Sou Analista de Projetos e Processos Jr. no Itaú Unibanco
+- 🥋 Faixa Amarela no programa Karatekas de Treinamento de Data Engineering pelo Itaú Unibanco
 - 💻 Formado em Sistemas de Informação pela USJT
-- 🌱 Atualmente estudando Data Science e Python (Pandas/Numpy) pela Alura
+- 🌱 Atualmente estudando Data Engineering, Python, Spark, ETL e AWS pela Alura
 
 
 <div style="display: inline_block"><br>
