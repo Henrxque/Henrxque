@@ -19,7 +19,8 @@ Bem vindos ao meu perfil!
 <img height ="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 <img height ="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img height ="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
- 
+<iframe frameborder="0" scrolling="no" src="http://badges.com.br/share/f8f3feed84fb8b928552895fc33e4455.php?a=3712&embed=true" width="180" height="230"></iframe>
+
 
           
 
