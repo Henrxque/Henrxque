@@ -19,7 +19,6 @@ Bem vindos ao meu perfil!
 <img height ="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 <img height ="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img height ="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img height ="50" width="100" src="https://www.brasilopenbadge.com.br/badge/3712.png?nocache=412174482"/>
  
 
           
